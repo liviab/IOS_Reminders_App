@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "704B96D3-4BFE-4FAC-B5D8-9D13ED8102C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C21E18E-0294-4F8B-9536-934BB6D62F47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "handleLocationRequestDisplayed()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E9304F2-118A-4FB7-ACF4-BD610D9A1C79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87CB5D6D-431C-42FB-A415-6D45A52EB4E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE496BF5-6379-488F-B5C6-FA0BC7C3E1CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "handleLocationRequestDisplayed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE496BF5-6379-488F-B5C6-FA0BC7C3E1CD - e1aad66f14296539"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemindersAppUIAutomationUITests.WelcomePageTestCase.handleLocationRequestDisplayed() -&gt; ()"
+                  moduleName = "RemindersAppUIAutomationUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Livbel/Projetos/RemindersAppUIAutomation/RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "AE496BF5-6379-488F-B5C6-FA0BC7C3E1CD - e1aad66f14296518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemindersAppUIAutomationUITests.WelcomePageTestCase.handleLocationRequestDisplayed() -&gt; ()"
+                  moduleName = "RemindersAppUIAutomationUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Livbel/Projetos/RemindersAppUIAutomation/RemindersAppUIAutomationUITests/TestCase/WelcomePageTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

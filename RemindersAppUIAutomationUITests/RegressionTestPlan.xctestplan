@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "2E1A5A58-EBA4-4D04-A052-C58C662782C6",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:RemindersAppUIAutomation.xcodeproj",
+        "identifier" : "88B5855B2798B16D004D75DE",
+        "name" : "RemindersAppUIAutomationUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
